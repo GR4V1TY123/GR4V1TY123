@@ -38,10 +38,4 @@ Full-stack recruitment platform featuring JWT authentication, role-based access 
 * Real-time systems
 * Distributed Systems & System Design
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=GR4V1TY123&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GR4V1TY123&layout=compact&theme=transparent&hide_border=true)
-
 ![](https://komarev.com/ghpvc/?username=GR4V1TY123&style=flat-square)
