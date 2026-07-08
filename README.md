@@ -1,6 +1,6 @@
 # Hi, I'm Mandar
 
-> *I won't waste your scroll.*
+> *I build things. Here's a few.*
 
 Backend-focused developer passionate about scalable systems, distributed applications, and developer tooling. I enjoy turning complex problems into clean, reliable solutions.
 
@@ -11,7 +11,7 @@ Backend-focused developer passionate about scalable systems, distributed applica
 
 ## 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-mandar.vercel.app/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mandar-ekal-47988a353/)[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mandarekal2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-mandar.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mandar-ekal-47988a353/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mandarekal2@gmail.com)
 
 ## 🛠 Tech
 
@@ -37,3 +37,11 @@ Full-stack recruitment platform featuring JWT authentication, role-based access 
 * High-performance APIs
 * Real-time systems
 * Distributed Systems & System Design
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=GR4V1TY123&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GR4V1TY123&layout=compact&theme=transparent&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=GR4V1TY123&style=flat-square)
