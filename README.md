@@ -7,7 +7,7 @@ Backend-focused developer passionate about scalable systems, distributed applica
 * 💼 Software Development Intern @ **Mobizo**
 * 🎓 B.E. Computer Engineering @ TSEC (CGPA: **9.44**)
 * 🏆 AI/ML Track Winner — DevHacks 24-Hour Hackathon
-* 🌱 Currently exploring **System Design**, **Distributed Systems**, and **DevOps**
+* 📖 Currently exploring **System Design**, **Distributed Systems**, and **DevOps**
 
 ## 🌐 Connect
 
@@ -17,17 +17,17 @@ Backend-focused developer passionate about scalable systems, distributed applica
 
 `Node.js` `TypeScript` `Express` `PostgreSQL` `MongoDB` `Redis` `React` `Docker` `WebSockets` `AWS`
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🗄️ [Database Backup Utility](https://github.com/GR4V1TY123/Penguin_Backup_Tool)
+### [Database Backup Utility](https://github.com/GR4V1TY123/Penguin_Backup_Tool)
 
 CLI tool supporting PostgreSQL & MongoDB backups, compressed archives, AWS S3 uploads, scheduled jobs, restore validation, and rollback support.
 
-### 💬 [CryptTalk](https://crypt-talk-three.vercel.app/)
+### [CryptTalk](https://crypt-talk-three.vercel.app/)
 
 Anonymous real-time developer platform with Socket.IO, topic-based matchmaking, ephemeral chat rooms, and collaborative coding with controlled editor ownership.
 
-### 💼 [HireMitra](https://hiremitra.onrender.com/)
+### [HireMitra](https://hiremitra.onrender.com/)
 
 Full-stack recruitment platform featuring JWT authentication, role-based access control, recruiter workflows, and application tracking.
 
