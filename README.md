@@ -1,5 +1,3 @@
-# Github_portfolio
-
 # Hi, I'm Mandar 👋
 
 > *I won't waste your scroll.*
